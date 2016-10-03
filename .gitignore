@@ -1,0 +1,26 @@
+# idea files
+.idea/
+*.iml
+
+*.class
+# Package Files #
+*.jar
+*.war
+# gwt caches and compiled units #
+war/mLogg/
+gwt-unitCache/
+test-classes/
+www-test/
+# boilerplate generated classes #
+.apt_generated/
+# settings folder
+.settings/
+# more caches and things from deploy #
+war/WEB-INF/deploy/
+war/WEB-INF/classes/
+# App engine generated #
+war/WEB-INF/appengine-generated/
+target/
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/classes/
+src/main/webapp/mLogg/ 
